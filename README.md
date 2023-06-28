@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahuldeshm
-- 👀 I’m interested in Frontend web development
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Full Stack web development
+- 🌱 I’m currently learning Next.js and database
 - 📫 Can reach me on this mail rahuldeshmukh4545@gmail.com
 
 <!---
